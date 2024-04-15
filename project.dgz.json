@@ -3,6 +3,6 @@
   "name": "Taro演示",
   "projectname": "Taro演示",
   "appid": "taro_demo_996",
-  "appUrlConfig": "https://raw.githubusercontent.com/htyf-mp-community/trao-demo/main/dgz/build/outputs/app.json",
-  "zipUrl": "https://raw.githubusercontent.com/htyf-mp-community/trao-demo/main/dgz/build/outputs/dist.dgz"
+  "appUrlConfig": "https://raw.githubusercontent.com/htyf-mp-community/taro-demo/main/dgz/build/outputs/app.json",
+  "zipUrl": "https://raw.githubusercontent.com/htyf-mp-community/taro-demo/main/dgz/build/outputs/dist.dgz"
 }
