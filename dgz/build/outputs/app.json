@@ -2,7 +2,7 @@
   "type": "app",
   "name": "Taro演示",
   "appid": "taro_demo_996",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "appUrlConfig": "https://raw.githubusercontent.com/htyf-mp-community/taro-demo/main/dgz/build/outputs/app.json",
   "zipUrl": "https://raw.githubusercontent.com/htyf-mp-community/taro-demo/main/dgz/build/outputs/dist.dgz"
 }
